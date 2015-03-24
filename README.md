@@ -1,3 +1,9 @@
+vmssh
+=====
+
+Is a designed to be pulled in by jenkins and used to remotely manage VMs without vCenter.  Only requirement is you must have SSH enabled on your ESXi host.
+
+
 esxi-linked-clone
 =================
 
