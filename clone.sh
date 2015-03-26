@@ -1,3 +1,6 @@
+#!/bin/sh
+#set -x
+
 readonly NUMARGS=$#
 readonly INFOLDER=$1
 readonly OUTFOLDER=$2

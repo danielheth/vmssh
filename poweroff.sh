@@ -1,3 +1,6 @@
+#!/bin/sh
+#set -x
+
 # Power off a VM
 if [ $# -le 0 ]
 then

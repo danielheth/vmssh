@@ -1,3 +1,6 @@
+#!/bin/sh
+#set -x
+
 # Power on a VM
 if [ $# -le 0 ]
 then

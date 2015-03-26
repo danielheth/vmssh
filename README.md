@@ -3,6 +3,8 @@ vmssh
 
 Is a designed to be pulled in by jenkins and used to remotely manage VMs without vCenter.  Only requirement is you must have SSH enabled on your ESXi host.
 
+Further Reading on vim-cmd... http://www.virtuallyghetto.com/vmware-vimsh-and-vim-cmd
+
 
 esxi-linked-clone
 =================
