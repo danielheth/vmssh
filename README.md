@@ -6,6 +6,19 @@ Is a designed to be pulled in by jenkins and used to remotely manage VMs without
 Further Reading on vim-cmd... http://www.virtuallyghetto.com/vmware-vimsh-and-vim-cmd
 
 
+./poweron.sh vm_name
+./poweroff.sh vm_name
+./clone.sh base_image_folder out_folder
+./deleteclone.sh vm_name
+./snapshotrevert.sh vm_name snapshot_name
+
+
+
+
+
+
+
+
 esxi-linked-clone
 =================
 

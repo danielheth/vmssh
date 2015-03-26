@@ -51,7 +51,7 @@ do
                                        if [ "$want_ss" = "$ss_name" ]
                                        then
                                                echo "reverting snapshot $ss_name for vm $NAME......."
-                                               #vim-cmd vmsvc/snapshot.revert $ID $ss_id false
+                                               vim-cmd vmsvc/snapshot.revert $ID $ss_id false
                                        fi
                                fi
                        fi
