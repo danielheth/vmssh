@@ -1,5 +1,6 @@
 #!/bin/sh
 #set -x
+cd "$(dirname "$0")/../"
 
 # Deletes a cloned VM created by clone.sh.
 if [ $# -le 0 ]

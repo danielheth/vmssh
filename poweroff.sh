@@ -1,5 +1,6 @@
 #!/bin/sh
 #set -x
+cd "$(dirname "$0")/../"
 
 # Power off a VM
 if [ $# -le 0 ]

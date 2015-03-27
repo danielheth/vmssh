@@ -1,6 +1,6 @@
 #!/bin/sh
 #set -x
-
+cd "$(dirname "$0")/../"
 
 # Power on a VM
 if [ $# -le 0 ]
