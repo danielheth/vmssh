@@ -1,6 +1,6 @@
 #!/bin/sh
 #set -x
-cd "$(dirname "$0")../"
+cd "$(dirname "$0")/../"
 
 readonly NUMARGS=$#
 readonly INFOLDER=$1
